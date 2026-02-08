@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Touch me",
+  "base_artist": "the engy",
+  "createdAt": "2026-02-08T14:40:01.375441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everytime You Touch Me",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/01_Everytime_You_Touch_Me_Moby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everytime You Touch Me (Freestyle mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/02_Everytime_You_Touch_Me_(Freestyle_mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everytime You Touch Me (NYC Jungle mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/03_Everytime_You_Touch_Me_(NYC_Jungle_mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everytime You Touch Me (Na Feel Mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/04_Everytime_You_Touch_Me_(Na_Feel_Mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Touch Me I'm Going to Scream",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/05_Touch_Me_I'm_Going_to_Scream_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Touch Me I'm Going To Scream Pt. 2",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/06_Touch_Me_I'm_Going_To_Scream_Pt._2_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Touch Me I'm Going To Scream Part 2",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/07_Touch_Me_I'm_Going_To_Scream_Part_2_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Touch Me I'm Sick",
+      "artist": "Mudhoney",
+      "has_synced": true,
+      "path": "select/08_Touch_Me_I'm_Sick_Mudhoney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Touch Me (All Night Long)",
+      "artist": "Cathy Dennis",
+      "has_synced": false,
+      "path": "select/09_Touch_Me_(All_Night_Long)_Cathy_Dennis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Touch Me (All Night Long) [7\" Mix]",
+      "artist": "Cathy Dennis",
+      "has_synced": true,
+      "path": "select/10_Touch_Me_(All_Night_Long)_[7__Mix]_Cathy_Dennis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Touch Me (All Night Long) [Club Mix]",
+      "artist": "Cathy Dennis",
+      "has_synced": false,
+      "path": "select/11_Touch_Me_(All_Night_Long)_[Club_Mix]_Cathy_Dennis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Touch Me - Duet With Samantha Fox",
+      "artist": "Gunther & The Sunshine Girls",
+      "has_synced": false,
+      "path": "select/12_Touch_Me_-_Duet_With_Samantha_Fox_Gunther_&_The_Sunshine_Girls.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Touch Me 2010 (Original Sexualversion)",
+      "artist": "49ers",
+      "has_synced": false,
+      "path": "select/13_Touch_Me_2010_(Original_Sexualversion)_49ers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Touch Me 2010 (Original Sexualversion)",
+      "artist": "49ers",
+      "has_synced": false,
+      "path": "select/14_Touch_Me_2010_(Original_Sexualversion)_49ers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Touch Me Feel Me",
+      "artist": "Darude",
+      "has_synced": false,
+      "path": "select/15_Touch_Me_Feel_Me_Darude.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Touch Me Touching You",
+      "artist": "Alphabeat",
+      "has_synced": false,
+      "path": "select/16_Touch_Me_Touching_You_Alphabeat.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Touch Me",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/17_Touch_Me_UNKLE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Touch me",
+      "artist": "the engy",
+      "has_synced": false,
+      "path": "select/pl_01_Touch_me_the_engy.txt"
+    }
+  ]
+}
